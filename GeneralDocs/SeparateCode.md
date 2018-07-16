@@ -1,29 +1,30 @@
 ## Separate your code
 
-1. import,  export
+1.  import, export
 
     * export, import default 1 function
-        ```
-        // Export Option 1
-        export default function add(x, y) {
-            return x + y;
-        }
-        ``` 
 
-        ```
-        // Export Option 2
-        function add(x, y) {
-            return x + y;
-        }
+      ```
+      // Export Option 1
+      export default function add(x, y) {
+          return x + y;
+      }
+      ```
 
-        export default add;
-        ```
+      ```
+      // Export Option 2
+      function add(x, y) {
+          return x + y;
+      }
+
+      export default add;
+      ```
 
 
         ```
         // Import
         import addFunction from "./myFunctionFile";
-      
+
         ```
     * export, import 2 or more functions
         ```
@@ -70,10 +71,10 @@
         const b = MyFunctions.sub(5, 2);
         ```
 
-
-2. render
+2.  render
 
     * Separate your code in a file
+
     ```
     // ===================================
     // CODE WITHOUT SEPARATING RENDER
@@ -110,7 +111,7 @@
             return (
                 <View>
                     <Text>{count}</Text>
-                    <TouchableOpacity 
+                    <TouchableOpacity
                         onPress={this.increaseCount}
                         style={styles.btnIncrease}
                     >
@@ -118,7 +119,7 @@
                             {"Increase"}
                         </Text>
                     </TouchableOpacity>
-                    <TouchableOpacity 
+                    <TouchableOpacity
                         onPress={this.decreaseCount}
                         style={styles.btnIncrease}
                     >
@@ -129,7 +130,7 @@
                 </View>
             );
         }
-    } 
+    }
 
     const styles = StyleSheet.create({
         btnIncrease: {
@@ -168,20 +169,20 @@
 
     renderButtonIncrease() {
         return (
-            <TouchableOpacity 
+            <TouchableOpacity
                 onPress={this.increaseCount}
                 style={styles.btnIncrease}
             >
                 <Text style={[styles.txtcenter, styles.txtWhite]}>
                     {"Increase"}
                 </Text>
-            </TouchableOpacity>            
+            </TouchableOpacity>
         );
     }
 
     renderButtonDecrease() {
         return (
-            <TouchableOpacity 
+            <TouchableOpacity
                 onPress={this.decreaseCount}
                 style={styles.btnIncrease}
             >
@@ -202,7 +203,7 @@
         // GOOD
         return (
                 <View>
-                    <Text>{count}</Text>
+                    {this.renderTextCount()}
                     {this.renderButtonIncrease()}
                     {this.renderButtonDecrease()}
                 </View>
