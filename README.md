@@ -1,20 +1,20 @@
-## React-native-trainning roadmap
+## react-native-free-learning roadmap
 
-1. [Setup on window/MacOS platform](GeneralDocs/Setup/ReadMe.md)
+1.  [Setup on window/MacOS platform](GeneralDocs/Setup/ReadMe.md)
 
-2. [Create Welcome project](Lession_1_Welcome/ReadMe.md)
+2.  [Create Welcome project](Lession_1_Welcome/ReadMe.md)
 
-3. [Code Editor](./GeneralDocs/Editor.md) 
+3.  [Code Editor](./GeneralDocs/Editor.md)
 
-4. [Style](./GeneralDocs/Style.md)
+4.  [Style](./GeneralDocs/Style.md)
 
-5. [Basic components](https://facebook.github.io/react-native/docs/components-and-apis.html#basic-components)
+5.  [Basic components](https://facebook.github.io/react-native/docs/components-and-apis.html#basic-components)
 
-6. [Basic api](./GeneralDocs/BasicApi/ReadMe.md)
+6.  [Basic api](./GeneralDocs/BasicApi/ReadMe.md)
 
-7. [React Native Platform specific code](./GeneralDocs/SpecificPlatform.md)
+7.  [React Native Platform specific code](./GeneralDocs/SpecificPlatform.md)
 
-8. [Render, separate render, import](./GeneralDocs/SeparateCode.md)
+8.  [Render, separate render, import](./GeneralDocs/SeparateCode.md)
 
 9.  [Props, state - Using, difference between them](./GeneralDocs/PropsAndState.md)
 
