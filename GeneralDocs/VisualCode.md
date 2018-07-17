@@ -1,1 +1,0 @@
-## Visual Code Editor & Extensions for React native

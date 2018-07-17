@@ -1,10 +1,15 @@
 ## react-native-free-learning roadmap
 
-1.  [Setup on window/MacOS platform](GeneralDocs/Setup/ReadMe.md)
+1.  Setup on window/MacOS platform
+
+    * [Window](GeneralDocs/Setup/WindowSetup.md)
+    * [MacOS](GeneralDocs/Setup/MacSetup.md)
 
 2.  [Create Welcome project](Lession_1_Welcome/ReadMe.md)
 
-3.  [Code Editor](./GeneralDocs/Editor.md)
+3.  Code Editor
+    * [Visual Code](./GeneralDocs/Editor/VisualCode.md)
+    * [Atom](./GeneralDocs/Editor/Atom.md)
 
 4.  [Style](./GeneralDocs/Style.md)
 
