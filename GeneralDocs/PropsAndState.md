@@ -33,7 +33,7 @@
             };
         }
 
-        renderButtonIncrease() {
+        increaseCount() {
             const { count } = this.state;
             this.setState({
                 count: count + 1
@@ -44,7 +44,7 @@
             return (
                 <TouchableOpacity
                     style={styles.button}
-                    onPress={this.renderButtonIncrease.bind(this)}
+                    onPress={this.increaseCount.bind(this)}
                 >
                     <Text style={styles.textButton}>{"INCREASE"}</Text>
                 </TouchableOpacity>
