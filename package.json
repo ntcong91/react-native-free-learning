@@ -1,0 +1,26 @@
+{
+  "name": "react-native-free-learning",
+  "version": "0.0.1",
+  "description": "react-native free learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntcong91/react-native-free-learning.git"
+  },
+  "keywords": [
+    "react-native",
+    "free",
+    "learning",
+    "react",
+    "native"
+  ],
+  "author": "congnguyen91",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ntcong91/react-native-free-learning/issues"
+  },
+  "homepage": "https://github.com/ntcong91/react-native-free-learning#readme"
+}
