@@ -11,7 +11,7 @@
         },
         alignCenter: {
             alignItems: "center",
-            "justifyContent: "center"
+            justifyContent: "center"
         },
         row: {
             flexDirection: "row",
