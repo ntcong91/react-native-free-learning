@@ -72,6 +72,6 @@
     > adb
 
 8. Connect & run on devices 
-    * Enable debug mode and run debug: read more https://facebook.github.io/react-native/docs/running-on-device.html
+    * Enable debug mode and run debug: read more https://reactnative.dev/docs/running-on-device
 
-    * If you want to build and run on device with release mode, you must sign apk by defining keystore. Read more here https://facebook.github.io/react-native/docs/signed-apk-android.html
+    * If you want to build and run on device with release mode, you must sign apk by defining keystore. Read more here https://reactnative.dev/docs/signed-apk-android
