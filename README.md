@@ -13,7 +13,7 @@
 
 4.  [Style](./GeneralDocs/Style.md)
 
-5.  [Basic components](https://facebook.github.io/react-native/docs/components-and-apis.html#basic-components)
+5.  [Basic components](https://reactnative.dev/docs/components-and-apis#basic-components)
 
 6.  [Basic api](./GeneralDocs/BasicApi/ReadMe.md)
 
