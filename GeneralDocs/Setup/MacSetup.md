@@ -1,5 +1,6 @@
 
 ## Will update soon as possible
 
-# please follow mac OSX here
-https://facebook.github.io/react-native/docs/getting-started
+# please follow mac OSX here, choose react-native cli, macos
+https://reactnative.dev/docs/running-on-device
+
