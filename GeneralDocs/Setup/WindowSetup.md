@@ -35,7 +35,7 @@
 
              > The SDK Manager can also be found within the Android Studio File → Setttings →  Appearance & Behavior → System Settings → Android SDK.
 
-        * Important: We should change the sdk location to your data disk - Not operating system disk (default is C disk) - Incase we install OS again => lost all sdk manager data -> time-consuming to download again.
+        * Important: You should change the sdk location to your data disk - Not operating system disk (default is C disk) - Incase we install OS again => lost all sdk manager data -> time-consuming to download again.
 
         ![AndroidSDKManager](../../Images/AndroidSDK.png)
 
