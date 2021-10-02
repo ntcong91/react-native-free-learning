@@ -27,7 +27,7 @@
 
 11. Redux - manage app state, store app data
 
-12. Overview coding style ES6, React Native
+12. [Overview coding style ES6, React Native](./GeneralDocs/CodingStyleGuide.md)
 
 13. Performance
 
