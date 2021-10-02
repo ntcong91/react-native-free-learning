@@ -23,11 +23,11 @@
 
 9.  [Props, state - Using, difference between them](./GeneralDocs/PropsAndState.md)
 
-10. React Native life cycle
+10. [Overview coding style ES6, React Native](./GeneralDocs/CodingStyleGuide.md)
 
-11. Redux - manage app state, store app data
+11. React Native life cycle
 
-12. [Overview coding style ES6, React Native](./GeneralDocs/CodingStyleGuide.md)
+12. Redux - manage app state, store app data
 
 13. Performance
 
