@@ -62,7 +62,7 @@
 
     ...
 
-    function MyComponent ({  props1, props2 }) => {
+    function MyComponent ({ props1, props2 }) => {
         //
         ...
     }
