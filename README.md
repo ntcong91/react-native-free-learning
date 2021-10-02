@@ -31,8 +31,13 @@
 
 13. Performance
 
-14. React native navigation
-
+14. App Navigation: Manage screens, stack of screens, Navigate between stack, screens in stack
+    * [React Navigation](https://reactnavigation.org/docs/getting-started/)
+    * [React Native Navigation](https://wix.github.io/react-native-navigation/docs/before-you-start/)
+    ```
+    There are two common options to apply navigation.
+    React Navigation is easy to setup with js
+    ```
 15. Android, iOS, reactJS bridge, link a lib/module
 
 16. Localization app with I18n lib
